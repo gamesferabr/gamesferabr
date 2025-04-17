@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel 👋
+# Olá, eu sou o Gabriel Guimarães Sakai👋
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -8,7 +8,7 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch)
 
 ## 🔥 Estatísticas
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsakai&show_icons=true&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamesferabri&show_icons=true&theme=radical)
 
 ## 📊 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsakai&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamesferabr&layout=compact)
