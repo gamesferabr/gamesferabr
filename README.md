@@ -8,7 +8,7 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch)
 
 ## 🔥 Estatísticas
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamesferabri&show_icons=true&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamesferabr&show_icons=true&theme=radical)
 
 ## 📊 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamesferabr&layout=compact)
